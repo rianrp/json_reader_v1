@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Introdução ao Python",
+    "content": "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. Foi criada por Guido van Rossum e lançada em 1991. Python é conhecida por sua sintaxe clara e legível, o que a torna uma excelente escolha para iniciantes em programação. A linguagem suporta múltiplos paradigmas de programação, incluindo programação orientada a objetos, programação procedural e programação funcional.",
+    "category": "programming",
+    "difficulty": "beginner"
+  },
+  {
+    "title": "Machine Learning com Python",
+    "content": "Machine Learning é um subcampo da inteligência artificial que permite que computadores aprendam e melhorem automaticamente a partir da experiência sem serem explicitamente programados. Python oferece várias bibliotecas poderosas para ML, incluindo scikit-learn, TensorFlow e PyTorch. Estas ferramentas facilitam a implementação de algoritmos de aprendizado supervisionado, não supervisionado e por reforço.",
+    "category": "ai",
+    "difficulty": "intermediate"
+  },
+  {
+    "title": "Desenvolvimento Web com Python",
+    "content": "Python é amplamente usado no desenvolvimento web através de frameworks como Django e Flask. Django é um framework web de alto nível que encoraja o desenvolvimento rápido e design limpo e pragmático. Flask é um micro-framework que fornece as ferramentas básicas para construir aplicações web. Ambos são excelentes opções para criar desde simples sites até aplicações web complexas.",
+    "category": "web",
+    "difficulty": "intermediate"
+  },
+  {
+    "title": "Ciência de Dados com Python",
+    "content": "Python se tornou a linguagem preferida para ciência de dados devido à sua simplicidade e ao ecossistema rico de bibliotecas especializadas. Pandas é usado para manipulação e análise de dados, NumPy para computação numérica, Matplotlib e Seaborn para visualização de dados, e Jupyter Notebooks fornece um ambiente interativo para análise exploratória de dados.",
+    "category": "data_science",
+    "difficulty": "intermediate"
+  }
+]
